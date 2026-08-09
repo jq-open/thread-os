@@ -321,6 +321,26 @@
       "created_at": "2026-08-08T14:15:15.850305+00:00",
       "updated_at": "2026-08-08T14:15:21.859346+00:00"
     },
+    "publish:threads-20260809-ai-bazi-quotes-04:v1": {
+      "publish_task_id": "publish:threads-20260809-ai-bazi-quotes-04:v1",
+      "source_key": "threads-20260809-ai-bazi-quotes-04",
+      "text": "八字都排错了，AI为什么还能讲得头头是道？\n\n因为逻辑自洽从来不等于事实正确！\n\n拿错体检报告，也不耽误它把别人的病分析得很专业。",
+      "content_version": 1,
+      "status": "published",
+      "post_id": "18197396152372936",
+      "platform_post_id": "18197396152372936",
+      "permalink": "https://www.threads.com/@jq.sifu/post/Db0oUprHLAd",
+      "scheduled_time": "2026-08-09T22:15:00+08:00",
+      "error_type": null,
+      "error_phase": null,
+      "external_action": true,
+      "retry_allowed": false,
+      "recovery_action": "Query the post ID manually; do not republish.",
+      "claimed_at": "2026-08-09T14:15:11.213750+00:00",
+      "last_error": null,
+      "created_at": "2026-08-09T14:15:11.213010+00:00",
+      "updated_at": "2026-08-09T14:15:21.568045+00:00"
+    },
     "publish:threads-codex-123": {
       "publish_task_id": "publish:threads-codex-123",
       "source_key": "threads-codex-123",
