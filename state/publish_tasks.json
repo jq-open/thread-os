@@ -341,6 +341,26 @@
       "created_at": "2026-08-09T14:15:11.213010+00:00",
       "updated_at": "2026-08-09T14:15:21.568045+00:00"
     },
+    "publish:threads-20260810-ai-bazi-quotes-05:v1": {
+      "publish_task_id": "publish:threads-20260810-ai-bazi-quotes-05:v1",
+      "source_key": "threads-20260810-ai-bazi-quotes-05",
+      "text": "同一张八字，四个AI能给你算出几种人生。\n\n到底是你的命太多，还是AI的答案太多？\n\n八字没变，变的是它这次挑中了哪套说法！",
+      "content_version": 1,
+      "status": "published",
+      "post_id": "18138635722505379",
+      "platform_post_id": "18138635722505379",
+      "permalink": "https://www.threads.com/@jq.sifu/post/Db3NItSoGNW",
+      "scheduled_time": "2026-08-10T22:15:00+08:00",
+      "error_type": null,
+      "error_phase": null,
+      "external_action": true,
+      "retry_allowed": false,
+      "recovery_action": "Query the post ID manually; do not republish.",
+      "claimed_at": "2026-08-10T14:15:20.761618+00:00",
+      "last_error": null,
+      "created_at": "2026-08-10T14:15:20.760864+00:00",
+      "updated_at": "2026-08-10T14:15:32.083388+00:00"
+    },
     "publish:threads-20260810-first-optimization-prompt-02:v1": {
       "publish_task_id": "publish:threads-20260810-first-optimization-prompt-02:v1",
       "source_key": "threads-20260810-first-optimization-prompt-02",
