@@ -381,6 +381,26 @@
       "created_at": "2026-08-10T14:00:15.446871+00:00",
       "updated_at": "2026-08-10T14:00:28.915074+00:00"
     },
+    "publish:threads-20260811-first-optimization-prompt-03:v1": {
+      "publish_task_id": "publish:threads-20260811-first-optimization-prompt-03:v1",
+      "source_key": "threads-20260811-first-optimization-prompt-03",
+      "text": "AI 说“已经完成”，\n我现在第一反应只有三个字：\n\n证据呢？\n\n这套 prompt 直接拿走：\n\n执行「第一优化」协议：\n\n1. 奥卡姆剃刀：只做满足当前需求的最小改动，不为未来可能性增加复杂度。\n2. 第一性原理分析：先厘清目标、约束、输入、输出和失败条件；区分事实、假设与推断。\n3. 墨菲定律验收：不仅测正常路径，还检查边界值、重复执行、权限缺失和外部服务失败。\n4. 对抗式审查：从反方角度寻找遗漏、错误假设、回归风险及未经验证的成功声明。\n5. 科斯定理式分工：只有委派成本低于自己完成成本时，才使用子 Agent。\n\n执行顺序：\n定义边界 → 最小改动 → 判断是否委派 → 全面验收 → 反方复查\n\n最终只汇报五件事：\n动了什么｜证据在哪｜风险在哪｜什么问题还没解决｜哪些需要确认",
+      "content_version": 1,
+      "status": "published",
+      "post_id": "18222677539329361",
+      "platform_post_id": "18222677539329361",
+      "permalink": "https://www.threads.com/@jq.sifu/post/Db5wMvWoPdC",
+      "scheduled_time": "2026-08-11T22:00:00+08:00",
+      "error_type": null,
+      "error_phase": null,
+      "external_action": true,
+      "retry_allowed": false,
+      "recovery_action": "Query the post ID manually; do not republish.",
+      "claimed_at": "2026-08-11T14:00:12.753272+00:00",
+      "last_error": null,
+      "created_at": "2026-08-11T14:00:12.752676+00:00",
+      "updated_at": "2026-08-11T14:00:24.068521+00:00"
+    },
     "publish:threads-codex-123": {
       "publish_task_id": "publish:threads-codex-123",
       "source_key": "threads-codex-123",
