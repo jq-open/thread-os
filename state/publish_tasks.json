@@ -421,6 +421,26 @@
       "created_at": "2026-08-11T14:00:12.752676+00:00",
       "updated_at": "2026-08-11T14:00:24.068521+00:00"
     },
+    "publish:threads-20260812-ai-bazi-quotes-07:v1": {
+      "publish_task_id": "publish:threads-20260812-ai-bazi-quotes-07:v1",
+      "source_key": "threads-20260812-ai-bazi-quotes-07",
+      "text": "AI为什么总能说中你几句？\n\n“重感情但容易受伤”“有能力但缺少机会”，谁看了不像自己？\n\n能套中所有人的话，凭什么叫算准了你！",
+      "content_version": 1,
+      "status": "published",
+      "post_id": "18090833843350258",
+      "platform_post_id": "18090833843350258",
+      "permalink": "https://www.threads.com/@jq.sifu/post/Db8WtEOoMHj",
+      "scheduled_time": "2026-08-12T22:15:00+08:00",
+      "error_type": null,
+      "error_phase": null,
+      "external_action": true,
+      "retry_allowed": false,
+      "recovery_action": "Query the post ID manually; do not republish.",
+      "claimed_at": "2026-08-12T14:15:09.520186+00:00",
+      "last_error": null,
+      "created_at": "2026-08-12T14:15:09.519329+00:00",
+      "updated_at": "2026-08-12T14:15:20.365030+00:00"
+    },
     "publish:threads-20260812-first-optimization-prompt-04:v1": {
       "publish_task_id": "publish:threads-20260812-first-optimization-prompt-04:v1",
       "source_key": "threads-20260812-first-optimization-prompt-04",
