@@ -461,6 +461,26 @@
       "created_at": "2026-08-12T14:00:14.835799+00:00",
       "updated_at": "2026-08-12T14:00:28.170699+00:00"
     },
+    "publish:threads-20260813-ai-bazi-quotes-08:v1": {
+      "publish_task_id": "publish:threads-20260813-ai-bazi-quotes-08:v1",
+      "source_key": "threads-20260813-ai-bazi-quotes-08",
+      "text": "你问AI“我是不是财运不好”，它就满盘替你找破财证据。\n\n这到底是它看出了你的命，还是你的问题替它写好了答案？\n\n有时候提示词才是隐藏的“第九个字”！",
+      "content_version": 1,
+      "status": "published",
+      "post_id": "18099108923006001",
+      "platform_post_id": "18099108923006001",
+      "permalink": "https://www.threads.com/@jq.sifu/post/Db-7gbNlg_c",
+      "scheduled_time": "2026-08-13T22:15:00+08:00",
+      "error_type": null,
+      "error_phase": null,
+      "external_action": true,
+      "retry_allowed": false,
+      "recovery_action": "Query the post ID manually; do not republish.",
+      "claimed_at": "2026-08-13T14:15:13.256810+00:00",
+      "last_error": null,
+      "created_at": "2026-08-13T14:15:13.255950+00:00",
+      "updated_at": "2026-08-13T14:15:25.251885+00:00"
+    },
     "publish:threads-20260813-first-optimization-prompt-05:v1": {
       "publish_task_id": "publish:threads-20260813-first-optimization-prompt-05:v1",
       "source_key": "threads-20260813-first-optimization-prompt-05",
