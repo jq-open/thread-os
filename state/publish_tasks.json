@@ -501,6 +501,26 @@
       "created_at": "2026-08-13T14:00:11.258505+00:00",
       "updated_at": "2026-08-13T14:00:28.630768+00:00"
     },
+    "publish:threads-20260814-ai-bazi-quotes-09:v1": {
+      "publish_task_id": "publish:threads-20260814-ai-bazi-quotes-09:v1",
+      "source_key": "threads-20260814-ai-bazi-quotes-09",
+      "text": "换一种问法，AI可能就给你换一种命。\n\n八字没动，答案却跟着你的焦虑跑！\n\n连立场都守不住，它凭什么替你守住人生？",
+      "content_version": 1,
+      "status": "published",
+      "post_id": "18091753517401934",
+      "platform_post_id": "18091753517401934",
+      "permalink": "https://www.threads.com/@jq.sifu/post/DcBgTMjlsBc",
+      "scheduled_time": "2026-08-14T22:15:00+08:00",
+      "error_type": null,
+      "error_phase": null,
+      "external_action": true,
+      "retry_allowed": false,
+      "recovery_action": "Query the post ID manually; do not republish.",
+      "claimed_at": "2026-08-14T14:15:12.474550+00:00",
+      "last_error": null,
+      "created_at": "2026-08-14T14:15:12.473612+00:00",
+      "updated_at": "2026-08-14T14:15:24.150387+00:00"
+    },
     "publish:threads-20260814-shishang-selfmedia-01:v1": {
       "publish_task_id": "publish:threads-20260814-shishang-selfmedia-01:v1",
       "source_key": "threads-20260814-shishang-selfmedia-01",
