@@ -541,6 +541,26 @@
       "created_at": "2026-08-14T14:00:13.375770+00:00",
       "updated_at": "2026-08-14T14:00:24.772402+00:00"
     },
+    "publish:threads-20260815-ai-bazi-quotes-10:v1": {
+      "publish_task_id": "publish:threads-20260815-ai-bazi-quotes-10:v1",
+      "source_key": "threads-20260815-ai-bazi-quotes-10",
+      "text": "AI不是看见了你的未来。\n\n它只是从学过的命理资料里，挑出一套最像你的解释！\n\n“听起来很准”和“它真的知道”，根本是两回事。",
+      "content_version": 1,
+      "status": "published",
+      "post_id": "18079083398695462",
+      "platform_post_id": "18079083398695462",
+      "permalink": "https://www.threads.com/@jq.sifu/post/DcEFF_HnOK4",
+      "scheduled_time": "2026-08-15T22:15:00+08:00",
+      "error_type": null,
+      "error_phase": null,
+      "external_action": true,
+      "retry_allowed": false,
+      "recovery_action": "Query the post ID manually; do not republish.",
+      "claimed_at": "2026-08-15T14:15:11.809646+00:00",
+      "last_error": null,
+      "created_at": "2026-08-15T14:15:11.808533+00:00",
+      "updated_at": "2026-08-15T14:15:22.177868+00:00"
+    },
     "publish:threads-20260815-shishang-selfmedia-02:v1": {
       "publish_task_id": "publish:threads-20260815-shishang-selfmedia-02:v1",
       "source_key": "threads-20260815-shishang-selfmedia-02",
