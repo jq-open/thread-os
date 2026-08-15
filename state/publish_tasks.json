@@ -541,6 +541,26 @@
       "created_at": "2026-08-14T14:00:13.375770+00:00",
       "updated_at": "2026-08-14T14:00:24.772402+00:00"
     },
+    "publish:threads-20260815-shishang-selfmedia-02:v1": {
+      "publish_task_id": "publish:threads-20260815-shishang-selfmedia-02:v1",
+      "source_key": "threads-20260815-shishang-selfmedia-02",
+      "text": "这个时代，\n就是食伤的主场。\n\n以前有想法，\n还要等媒体、公司或者贵人看见。\n\n现在一部手机就够了。\n\n食伤旺的人擅长输出、创造和影响别人。\n不一定马上赚钱，\n但作品发出去，机会才知道去哪里找你。",
+      "content_version": 1,
+      "status": "published",
+      "post_id": "18118221421694716",
+      "platform_post_id": "18118221421694716",
+      "permalink": "https://www.threads.com/@jq.sifu/post/DcEDYU9IEMd",
+      "scheduled_time": "2026-08-15T22:00:00+08:00",
+      "error_type": null,
+      "error_phase": null,
+      "external_action": true,
+      "retry_allowed": false,
+      "recovery_action": "Query the post ID manually; do not republish.",
+      "claimed_at": "2026-08-15T14:00:13.094939+00:00",
+      "last_error": null,
+      "created_at": "2026-08-15T14:00:13.093866+00:00",
+      "updated_at": "2026-08-15T14:00:25.851985+00:00"
+    },
     "publish:threads-codex-123": {
       "publish_task_id": "publish:threads-codex-123",
       "source_key": "threads-codex-123",
