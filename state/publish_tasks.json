@@ -581,6 +581,26 @@
       "created_at": "2026-08-15T14:00:13.093866+00:00",
       "updated_at": "2026-08-15T14:00:25.851985+00:00"
     },
+    "publish:threads-20260816-ai-bazi-quotes-11:v1": {
+      "publish_task_id": "publish:threads-20260816-ai-bazi-quotes-11:v1",
+      "source_key": "threads-20260816-ai-bazi-quotes-11",
+      "text": "AI认识八个字，就等于认识你吗？\n\n同样的命盘，放进不同家庭、城市和教育里，能活成完全不同的人！\n\n不问经历就断人生，到底是论命还是套模板？",
+      "content_version": 1,
+      "status": "published",
+      "post_id": "18104755166349808",
+      "platform_post_id": "18104755166349808",
+      "permalink": "https://www.threads.com/@jq.sifu/post/DcGp5C3m4Vf",
+      "scheduled_time": "2026-08-16T22:15:00+08:00",
+      "error_type": null,
+      "error_phase": null,
+      "external_action": true,
+      "retry_allowed": false,
+      "recovery_action": "Query the post ID manually; do not republish.",
+      "claimed_at": "2026-08-16T14:15:13.412882+00:00",
+      "last_error": null,
+      "created_at": "2026-08-16T14:15:13.411787+00:00",
+      "updated_at": "2026-08-16T14:15:25.817963+00:00"
+    },
     "publish:threads-20260816-shishang-selfmedia-03:v1": {
       "publish_task_id": "publish:threads-20260816-shishang-selfmedia-03:v1",
       "source_key": "threads-20260816-shishang-selfmedia-03",
