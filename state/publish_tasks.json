@@ -581,6 +581,26 @@
       "created_at": "2026-08-15T14:00:13.093866+00:00",
       "updated_at": "2026-08-15T14:00:25.851985+00:00"
     },
+    "publish:threads-20260816-shishang-selfmedia-03:v1": {
+      "publish_task_id": "publish:threads-20260816-shishang-selfmedia-03:v1",
+      "source_key": "threads-20260816-shishang-selfmedia-03",
+      "text": "食伤旺的女孩，\n别只在朋友圈阴阳怪气。\n\n去开个自媒体账号，\n把输出欲用在更大的地方。\n\n一直憋着容易内耗。\n表达出去，\n才可能变成内容、作品和影响力。\n\n语言的力量不是让所有人同意，\n是让人听完以后开始思考。",
+      "content_version": 1,
+      "status": "published",
+      "post_id": "18073963286708696",
+      "platform_post_id": "18073963286708696",
+      "permalink": "https://www.threads.com/@jq.sifu/post/DcGoK65m9wt",
+      "scheduled_time": "2026-08-16T22:00:00+08:00",
+      "error_type": null,
+      "error_phase": null,
+      "external_action": true,
+      "retry_allowed": false,
+      "recovery_action": "Query the post ID manually; do not republish.",
+      "claimed_at": "2026-08-16T14:00:11.086431+00:00",
+      "last_error": null,
+      "created_at": "2026-08-16T14:00:11.085203+00:00",
+      "updated_at": "2026-08-16T14:00:22.544933+00:00"
+    },
     "publish:threads-codex-123": {
       "publish_task_id": "publish:threads-codex-123",
       "source_key": "threads-codex-123",
