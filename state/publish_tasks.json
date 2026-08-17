@@ -621,6 +621,26 @@
       "created_at": "2026-08-16T14:00:11.085203+00:00",
       "updated_at": "2026-08-16T14:00:22.544933+00:00"
     },
+    "publish:threads-20260817-ai-bazi-quotes-12:v1": {
+      "publish_task_id": "publish:threads-20260817-ai-bazi-quotes-12:v1",
+      "source_key": "threads-20260817-ai-bazi-quotes-12",
+      "text": "排盘是计算题，论命才是解释题。\n\n很多AI刚把第一题做对，就急着替你写人生大结局！\n\n会查答案，什么时候等于会判断了？",
+      "content_version": 1,
+      "status": "published",
+      "post_id": "18109870511024358",
+      "platform_post_id": "18109870511024358",
+      "permalink": "https://www.threads.com/@jq.sifu/post/DcJOrscFBUi",
+      "scheduled_time": "2026-08-17T22:15:00+08:00",
+      "error_type": null,
+      "error_phase": null,
+      "external_action": true,
+      "retry_allowed": false,
+      "recovery_action": "Query the post ID manually; do not republish.",
+      "claimed_at": "2026-08-17T14:15:11.581264+00:00",
+      "last_error": null,
+      "created_at": "2026-08-17T14:15:11.580269+00:00",
+      "updated_at": "2026-08-17T14:15:21.097423+00:00"
+    },
     "publish:threads-20260817-shishang-selfmedia-04:v1": {
       "publish_task_id": "publish:threads-20260817-shishang-selfmedia-04:v1",
       "source_key": "threads-20260817-shishang-selfmedia-04",
