@@ -661,6 +661,26 @@
       "created_at": "2026-08-17T14:00:11.747289+00:00",
       "updated_at": "2026-08-17T14:00:25.154703+00:00"
     },
+    "publish:threads-20260818-ai-bazi-quotes-13:v1": {
+      "publish_task_id": "publish:threads-20260818-ai-bazi-quotes-13:v1",
+      "source_key": "threads-20260818-ai-bazi-quotes-13",
+      "text": "AI算命最大的骗局感，不是它一定在骗你。\n\n而是它把“可能”写得太像“一定”！\n\n语气这么自信，证据呢？",
+      "content_version": 1,
+      "status": "published",
+      "post_id": "18125430151771413",
+      "platform_post_id": "18125430151771413",
+      "permalink": "https://www.threads.com/@jq.sifu/post/DcLze44G-Hl",
+      "scheduled_time": "2026-08-18T22:15:00+08:00",
+      "error_type": null,
+      "error_phase": null,
+      "external_action": true,
+      "retry_allowed": false,
+      "recovery_action": "Query the post ID manually; do not republish.",
+      "claimed_at": "2026-08-18T14:15:13.852323+00:00",
+      "last_error": null,
+      "created_at": "2026-08-18T14:15:13.851252+00:00",
+      "updated_at": "2026-08-18T14:15:24.752088+00:00"
+    },
     "publish:threads-20260818-shishang-selfmedia-05:v1": {
       "publish_task_id": "publish:threads-20260818-shishang-selfmedia-05:v1",
       "source_key": "threads-20260818-shishang-selfmedia-05",
