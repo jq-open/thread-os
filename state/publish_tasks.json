@@ -761,6 +761,26 @@
       "created_at": "2026-08-21T14:15:12.089485+00:00",
       "updated_at": "2026-08-21T14:15:24.085809+00:00"
     },
+    "publish:threads-20260822-ai-bazi-quotes-17:v1": {
+      "publish_task_id": "publish:threads-20260822-ai-bazi-quotes-17:v1",
+      "source_key": "threads-20260822-ai-bazi-quotes-17",
+      "text": "AI说你“命里不聚财”，你就不敢投资、不敢谈价、不敢争取。\n\n几年后你真的没钱，还回头夸它算得准！\n\n这到底是预测，还是你亲手配合它完成了预言？",
+      "content_version": 1,
+      "status": "published",
+      "post_id": "17903326299484345",
+      "platform_post_id": "17903326299484345",
+      "permalink": "https://www.threads.com/@jq.sifu/post/DcWGqYyILVf",
+      "scheduled_time": "2026-08-22T22:15:00+08:00",
+      "error_type": null,
+      "error_phase": null,
+      "external_action": true,
+      "retry_allowed": false,
+      "recovery_action": "Query the post ID manually; do not republish.",
+      "claimed_at": "2026-08-22T14:15:13.981192+00:00",
+      "last_error": null,
+      "created_at": "2026-08-22T14:15:13.980428+00:00",
+      "updated_at": "2026-08-22T14:15:22.867065+00:00"
+    },
     "publish:threads-codex-123": {
       "publish_task_id": "publish:threads-codex-123",
       "source_key": "threads-codex-123",
