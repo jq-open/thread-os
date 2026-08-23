@@ -781,6 +781,26 @@
       "created_at": "2026-08-22T14:15:13.980428+00:00",
       "updated_at": "2026-08-22T14:15:22.867065+00:00"
     },
+    "publish:threads-20260823-ai-bazi-quotes-18:v1": {
+      "publish_task_id": "publish:threads-20260823-ai-bazi-quotes-18:v1",
+      "source_key": "threads-20260823-ai-bazi-quotes-18",
+      "text": "命不会被AI越算越薄。\n\n但一个人真的可能越算越不敢作决定！\n\n当所有选择都要先问命盘，你失去的不是运气，是人生主权。",
+      "content_version": 1,
+      "status": "published",
+      "post_id": "18129925783736208",
+      "platform_post_id": "18129925783736208",
+      "permalink": "https://www.threads.com/@jq.sifu/post/DcYrdC_louH",
+      "scheduled_time": "2026-08-23T22:15:00+08:00",
+      "error_type": null,
+      "error_phase": null,
+      "external_action": true,
+      "retry_allowed": false,
+      "recovery_action": "Query the post ID manually; do not republish.",
+      "claimed_at": "2026-08-23T14:15:12.311659+00:00",
+      "last_error": null,
+      "created_at": "2026-08-23T14:15:12.310354+00:00",
+      "updated_at": "2026-08-23T14:15:22.565901+00:00"
+    },
     "publish:threads-codex-123": {
       "publish_task_id": "publish:threads-codex-123",
       "source_key": "threads-codex-123",
