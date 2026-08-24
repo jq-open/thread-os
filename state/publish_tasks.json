@@ -801,6 +801,26 @@
       "created_at": "2026-08-23T14:15:12.310354+00:00",
       "updated_at": "2026-08-23T14:15:22.565901+00:00"
     },
+    "publish:threads-20260824-ai-bazi-quotes-19:v1": {
+      "publish_task_id": "publish:threads-20260824-ai-bazi-quotes-19:v1",
+      "source_key": "threads-20260824-ai-bazi-quotes-19",
+      "text": "专业命理师的价值，难道是背术语背得比AI快？\n\n真正的专业，是知道哪条证据更重要、哪句话不能说满！\n\n什么都敢断，不叫厉害，叫不用负责。",
+      "content_version": 1,
+      "status": "published",
+      "post_id": "18107819630126530",
+      "platform_post_id": "18107819630126530",
+      "permalink": "https://www.threads.com/@jq.sifu/post/DcbQQAjF222",
+      "scheduled_time": "2026-08-24T22:15:00+08:00",
+      "error_type": null,
+      "error_phase": null,
+      "external_action": true,
+      "retry_allowed": false,
+      "recovery_action": "Query the post ID manually; do not republish.",
+      "claimed_at": "2026-08-24T14:15:12.647162+00:00",
+      "last_error": null,
+      "created_at": "2026-08-24T14:15:12.645906+00:00",
+      "updated_at": "2026-08-24T14:15:25.960643+00:00"
+    },
     "publish:threads-codex-123": {
       "publish_task_id": "publish:threads-codex-123",
       "source_key": "threads-codex-123",
