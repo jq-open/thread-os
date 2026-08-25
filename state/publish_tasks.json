@@ -821,6 +821,26 @@
       "created_at": "2026-08-24T14:15:12.645906+00:00",
       "updated_at": "2026-08-24T14:15:25.960643+00:00"
     },
+    "publish:threads-20260825-ai-bazi-quotes-20:v1": {
+      "publish_task_id": "publish:threads-20260825-ai-bazi-quotes-20:v1",
+      "source_key": "threads-20260825-ai-bazi-quotes-20",
+      "text": "“财多身弱、食伤生财”说得再漂亮，听不懂有什么用？\n\n能把它讲成“机会很多，但你的承载能力还跟不上”，才叫真懂！\n\n故弄玄虚不是专业，只是害怕别人发现你也没讲清楚。",
+      "content_version": 1,
+      "status": "published",
+      "post_id": "18060014657787910",
+      "platform_post_id": "18060014657787910",
+      "permalink": "https://www.threads.com/@jq.sifu/post/Dcd1DJQICjh",
+      "scheduled_time": "2026-08-25T22:15:00+08:00",
+      "error_type": null,
+      "error_phase": null,
+      "external_action": true,
+      "retry_allowed": false,
+      "recovery_action": "Query the post ID manually; do not republish.",
+      "claimed_at": "2026-08-25T14:15:14.847392+00:00",
+      "last_error": null,
+      "created_at": "2026-08-25T14:15:14.846152+00:00",
+      "updated_at": "2026-08-25T14:15:28.090092+00:00"
+    },
     "publish:threads-codex-123": {
       "publish_task_id": "publish:threads-codex-123",
       "source_key": "threads-codex-123",
